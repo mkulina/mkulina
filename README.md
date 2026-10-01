@@ -1,10 +1,10 @@
 # Matthew Kulina
 
-**TypeScript developer building mobile products, AI tooling, and cloud software.**
+**TypeScript and PHP developer building web applications with Laravel, mobile products, AI tooling, and cloud software.**
 
 I turn practical problems into useful software. My work spans mobile applications, AI implementations, API integrations, and automation, with experience across fintech and healthcare.
 
-TypeScript is my primary language. I also work with Go, Python, and PHP, with cloud experience across AWS and Azure.
+TypeScript is my primary language. I also build web applications, APIs, and background processing workflows with PHP and Laravel. My experience includes Go, Python, AWS, and Azure.
 
 I care about clear interfaces, dependable systems, and making complex workflows easier to use and maintain.
 
