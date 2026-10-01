@@ -12,7 +12,7 @@ I care about clear interfaces, dependable systems, and making complex workflows 
 
 ## Companies and industries
 
-I have worked with companies including **The New York Times, Red Bull, Marriott Hotels, ProMedica, and Mercy Health**.
+I have worked with companies including **The New York Times, Gannett, RotoWire, Red Bull, Marriott Hotels, ProMedica, and Mercy Health**.
 
 My experience spans media, hospitality, fintech, and healthcare.
 
