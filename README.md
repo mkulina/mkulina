@@ -10,6 +10,12 @@ I care about clear interfaces, dependable systems, and making complex workflows 
 
 [KidTag](https://kidtag.app) · [LinkedIn](https://www.linkedin.com/in/matthew-k-90a72642) · [Email](mailto:matthewkulina@icloud.com)
 
+## Companies and industries
+
+I have worked with companies including **The New York Times, Red Bull, Marriott Hotels, ProMedica, and Mercy Health**.
+
+My experience spans media, hospitality, fintech, and healthcare.
+
 ## Featured product
 
 ### KidTag
