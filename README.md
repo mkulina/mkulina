@@ -1,6 +1,6 @@
 # Matthew Kulina
 
-**TypeScript and PHP developer building web applications with Laravel, mobile products, AI tooling, and cloud software.**
+**TypeScript and PHP developer building full stack web/mobile apps.**
 
 I turn practical problems into useful software. My work spans mobile applications, AI implementations, API integrations, and automation, with experience across fintech and healthcare.
 
